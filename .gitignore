@@ -1,0 +1,4 @@
+node-bin/
+node_modules/
+.next/
+.env
